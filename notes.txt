@@ -1,0 +1,67 @@
+
+OPTIONAL WORK .........
+
+filer for search rec
+delete studnent X
+repeate attandence ?
+export attndence in excel 
+
+
+student roll no seq will never break
+dashord ma mothley repoert attandence
+desc qry
+search and update [ attendenace ]
+==========================================================
+
+DONE WORK .....
+
+1 . 
+Login page baki che ( dynamic login check karavu ) type check karva ni ( admin , student  , teacher )  
+type ne sesssion ma check karava nu che       
+
+2. dynamic condition [ sesstion ni type ma thi madse  ]
+    deshbord ma kam karva nu        
+
+3. update ma phota per required nathi raikhu   -- done
+
+6. student deshboard baki ceh (  same as student_detail.php without actions )
+
+7. logout karvanu baki che && title change karvanu che 
+
+9. add validation in all page that user can accecss this page or not
+
+8. slide bar ( navbar ) nanu thy to logo k title nanu thy jay che...
+
+9. student attendence ma absent ma  - minus aave 6.... abs() function ( raj ) 
+
+10. seesion thi login ,   , qry prmas thi login nahikarvqa niu 
+
+11. feedack form and php backend code
+
+==================================================================
+
+REMAINING WORK ....................
+
+10. all labels check 
+
+// 5. same day ma 2 var attendence no thavi joy......  [ agharo case ]
+
+------ [agharo case ] == temporary solusion thy gyu che....
+jo badha ni attendance  levay jay e pela koi page leave thy to warning male...
+& biji var refresh thy ne aave to attendance no lay sake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
