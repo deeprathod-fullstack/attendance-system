@@ -1,6 +1,4 @@
-# attendance
-this is online attendance system for college project bca sem - 5 made by raj bhai 0xblock and Deep rathod.
+# attendance system
+this is online attendance system [ college project bca sem - 5 ]
 
-1 folder 'svgs' is not uploaded because of too many files..
-
-it is in the ... project / admin / assets / vendor / fontawesome-free /...
+remaining files... project / admin / assets / vendor / fontawesome-free /...
