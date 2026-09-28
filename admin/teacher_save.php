@@ -4,4 +4,4 @@ require __DIR__ . '/../includes/people.php';
 require_login(['admin']);
 require_valid_post('teacher.php');
 
-delete_person('teacher', 'Teacher');
+save_person('teacher', 'Teacher', 'teacher.php', 'teacher_form.php');

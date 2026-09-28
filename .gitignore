@@ -1,0 +1,14 @@
+# Local configuration (copy config.example.php to config.php)
+/config.php
+
+# User-uploaded photos
+/admin/upload/*
+!/admin/upload/.gitkeep
+!/admin/upload/.htaccess
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
