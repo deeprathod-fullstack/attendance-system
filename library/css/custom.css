@@ -1,0 +1,12 @@
+/* Project-specific overrides on top of the Start Bootstrap "Creative" theme */
+
+/* Dark, semi-transparent navbar over the hero image (the theme turns it white once you scroll). */
+@media (min-width: 992px) {
+    #mainNav:not(.navbar-shrink) {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+}
+
+.credits {
+    background-color: rgba(222, 226, 230, 0.9);
+}

@@ -1,0 +1,8 @@
+Options -Indexes
+
+# Keep configuration, SQL dumps and repository metadata private.
+<FilesMatch "^(config(\.example)?\.php|.*\.sql|\.gitignore|\.editorconfig)$">
+    Require all denied
+</FilesMatch>
+
+RedirectMatch 404 /\.git
